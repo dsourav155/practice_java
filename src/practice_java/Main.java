@@ -104,7 +104,20 @@ public class Main {  // class
 		System.out.println("We both are "+age+ " years old");
 		System.out.println(food+" is nice but I like burgers more.");
 		
+	
+	// ------------------------- Expressions in Java -----------------------------
 		
+		/*
+		 *  expression = operands and operators
+		 *  operands = values, variables, numbers, quantity
+		 *  operators = +, -, *, /, %
+		 */
+		
+		int noOfFriends = 10;
+		
+		noOfFriends++;
+		
+		System.out.println(noOfFriends);
 
 	}
 

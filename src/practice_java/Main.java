@@ -53,6 +53,22 @@ public class Main {  // class
 		System.out.println("My LinkedIn is "+d+"dsourav155");
 		
 		
+		
+	// ----------------------- Swap two variables ---------------------------
+		
+		String p = "Water";
+		String q = "Coffee";
+		
+		String temp;
+		
+		temp = p;
+		p = q;
+		q = temp;
+		
+		System.out.println("p: "+p);
+		System.out.println("q: "+q);
+		
+		
 
 	}
 
